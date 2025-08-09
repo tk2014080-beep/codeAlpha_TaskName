@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio Site</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="                      
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="                          
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="about">
+            <h1>About Me</h1>
+            <p>Hi, I'm Tanya Kumari, a frontend development intern at CodeAlpha. I'm passionate about building user-friendly and visually appealing websites. I have experience with HTML, CSS, and JavaScript, and I'm always looking to learn more.</p>
+        </section>  </section>
+        <section id="skills">
+            <h1>my skills</h1>
+            <ul>
+                <li>html</li>
+                <li>css</li>
+                <li>java</li>
+            </ul>
+        </section>
+        <section id="projects">
+            <h1>My Projects</h1>
+            <ul>
+                <li>image gallery</li>
+                <li>calculator</li>
+                <li>music player</li>
+            </ul>
+        </section>
+        <section id="contact">
+            <h1>contact</h1>
+            <p1>phone:-12345678</p>
+      <p2>email:-tanvisinghtanya@gmail.com</p>
+<p3>linkdin:-https://www.linkedin.com/in/tanya-kumari-b40ba4286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app</p>  </section>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
